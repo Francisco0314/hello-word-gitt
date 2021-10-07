@@ -30,3 +30,8 @@ Aquí podemos usar *formato italico*, pero también poder usar **formato bold** 
 - Esto es un item de listas desordenadas
 - Esto es un item de listas desordenadas
 
+# Tipos de Links
+
+- <a href="https://www.google.com">Esto es un link html<a>
+- [Esto es un link en markdown](https://www.gogle.com)
+- [Esto es un link al index](index.html)
