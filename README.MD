@@ -95,3 +95,17 @@ Esto es un texto de una cita que pondremos abajo:
 Esto es otr texto que no se relaciona con la cita anterior: 
 >Esto es otra cita
 
+# Líneas divisoras 
+Esto es un texto que será divido por guiones medios
+
+---
+
+Esto es otro texto divido por asteríscos 
+
+***
+
+Esto es otro texto divido por guiones bajos.
+
+___
+
+
