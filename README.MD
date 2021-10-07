@@ -85,3 +85,13 @@ export  $initHighlight;
 | ------  | -------- | -------- |
 | Francisco | González | aro.pdf |
 | Javier | Hernández | cat.doc  |
+
+
+# Citas
+
+Esto es un texto de una cita que pondremos abajo:
+> Esto es una cita
+
+Esto es otr texto que no se relaciona con la cita anterior: 
+>Esto es otra cita
+
